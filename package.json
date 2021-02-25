@@ -1,0 +1,16 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "a simple crud application for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "raartist",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.18"
+  }
+}
